@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojecte_intermodular=self.webpackChunkprojecte_intermodular||[]).push([[8351],{1131:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/projecte-intermodular/build/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojecte_intermodular=self.webpackChunkprojecte_intermodular||[]).push([[9858],{5516:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

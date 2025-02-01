@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojecte_intermodular=self.webpackChunkprojecte_intermodular||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/projecte-intermodular/build/blog","blogTitle":"Blog","authorsListPath":"/projecte-intermodular/build/blog/authors"}')}}]);
